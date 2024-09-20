@@ -1,0 +1,4 @@
+1,Jogos
+2,Alimentacao
+4,Transporte
+5,bebidas alcolicas
