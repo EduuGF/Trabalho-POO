@@ -14,5 +14,5 @@ tem a funcao logica parecida com a de gerenciar despesas, ele fica com a parte l
 # Categoria, usuario, despesa
 todas elas sao basicamente como uma forma de oq um usuario deve ter, oq um cadastro deve ter, oq uma categoria deve ter, sao a base da base para pode usar nas logicas, e assim no fluxo do sistema
 
-#criptografia
+# criptografia
 é criptografada e descriptografada a senha, usando a Cifra de César
