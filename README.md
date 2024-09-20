@@ -8,10 +8,11 @@ bom, nela é onde o codigo é rodado, fiz de uma maneira que antes do menu princ
 # gerenciador de despesas
 responsavel em grande parte das logicas envolvendo as despesas, como puxar o banco de dados em texto, atualiza-lo, formata-lo para que nao haja nenhum problema com ele, ele ve o status da despesa, se ela esta paga ou nao, oq é essencial para podermos lista-las. ele é responsavel por podermos adicionar, remover, editar as categorias das despesas no sistema
 
-# gerenciador usuarios
+# Gerenciador usuarios
 tem a funcao logica parecida com a de gerenciar despesas, ele fica com a parte logica dos usuarios, sendo usada para listar, autenticar, cadastrar e salvar no arquivo
 
-#categoria, usuario, despesa
+# Categoria, usuario, despesa
 todas elas sao basicamente como uma forma de oq um usuario deve ter, oq um cadastro deve ter, oq uma categoria deve ter, sao a base da base para pode usar nas logicas, e assim no fluxo do sistema
 
 #criptografia
+é criptografada e descriptografada a senha, usando a Cifra de César
