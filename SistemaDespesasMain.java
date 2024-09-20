@@ -1,7 +1,7 @@
 // Arquivo 1: SistemaDespesas.java
 import java.util.Scanner;
 
-public class SistemaDespesas {
+public class SistemaDespesasMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         GerenciadorUsuarios gerenciadorUsuarios = new GerenciadorUsuarios(); // Instanciando Gerenciador de Usuários
